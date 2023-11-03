@@ -1,0 +1,21 @@
+{
+  "name": "Adafruit SleepyDog Library",
+  "keywords": "sleep, watchdog, timer",
+  "description": "Watchdog library for Arduino, compatible with multiple platforms including RP2040.",
+  "authors": [
+    {
+      "name": "Adafruit Industries",
+      "email": "info@adafruit.com",
+      "url": "https://adafruit.com"
+    }
+  ],
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/tyeth/Adafruit_SleepyDog"
+  },
+  "frameworks": "arduino",
+  "platforms": ["atmelavr", "atmelsam", "nordicnrf52", "teensy", "espressif32", "espressif8266", "raspberrypi"],
+  "version": "1.6.3",
+  "downloadUrl": "https://github.com/tyeth/Adafruit_SleepyDog.git"
+}
