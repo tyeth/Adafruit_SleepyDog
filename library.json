@@ -16,6 +16,6 @@
   },
   "frameworks": "arduino",
   "platforms": ["atmelavr", "atmelsam", "nordicnrf52", "teensy", "espressif32", "espressif8266", "raspberrypi"],
-  "version": "1.6.3",
+  "version": "1.6.5",
   "downloadUrl": "https://github.com/tyeth/Adafruit_SleepyDog.git"
 }
